@@ -1,0 +1,541 @@
+{
+  "checkedAt": "2026-10-21T22:43:47.358Z",
+  "site": "https://ish3-is.github.io/MDR/",
+  "pages": [
+    {
+      "url": "https://ish3-is.github.io/MDR/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/about/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/about/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/services/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/services/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/projects/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/projects/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/academy/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/academy/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/research/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/research/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/team/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/team/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/contact/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/contact/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/privacy/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/privacy/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/terms/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/terms/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/services/cybersecurity/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/services/cybersecurity/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/services/soc/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/services/soc/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/services/grc/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/services/grc/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/services/digital-systems/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/services/digital-systems/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/services/ai/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/services/ai/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/services/data-analytics/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/services/data-analytics/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/services/networks/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/services/networks/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/services/training/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/services/training/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/services/professional-profile/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/services/professional-profile/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/services/research-support/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/services/research-support/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/services/mentoring/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/services/mentoring/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/projects/mizan/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/projects/mizan/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/projects/digital-club/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/projects/digital-club/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/projects/purpleops/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/projects/purpleops/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/projects/dualshield/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/projects/dualshield/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/projects/basirah/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/projects/basirah/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/projects/ueba/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/projects/ueba/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/projects/sentinel/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/projects/sentinel/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/projects/wazuh-lab/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/projects/wazuh-lab/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/projects/splunk/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/projects/splunk/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/projects/human-layer/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/projects/human-layer/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/projects/r-m/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/projects/r-m/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/projects/project/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/projects/project/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/projects/housing-system/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "https://ish3-is.github.io/MDR/en/projects/housing-system/",
+      "status": 200,
+      "htmlLanguage": "PASS",
+      "prerender": "PASS",
+      "canonical": "PASS"
+    }
+  ],
+  "assets": [
+    {
+      "path": "/MDR/brand/madar-original.png",
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "path": "/MDR/assets/index-DQR1jr5h.js",
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "path": "/MDR/brand/madar-192.webp",
+      "status": 200,
+      "contentType": "image/webp"
+    },
+    {
+      "path": "/MDR/projects/mizan.webp",
+      "status": 200,
+      "contentType": "image/webp"
+    },
+    {
+      "path": "/MDR/projects/basirah.webp",
+      "status": 200,
+      "contentType": "image/webp"
+    },
+    {
+      "path": "/MDR/projects/splunk.webp",
+      "status": 200,
+      "contentType": "image/webp"
+    },
+    {
+      "path": "/MDR/videos/madar-poster-preview.webp",
+      "status": 200,
+      "contentType": "image/webp"
+    },
+    {
+      "path": "/MDR/projects/basirah-2.webp",
+      "status": 200,
+      "contentType": "image/webp"
+    },
+    {
+      "path": "/MDR/videos/madar-welcome-12s.mp4",
+      "status": 200,
+      "contentType": "video/mp4"
+    },
+    {
+      "path": "/MDR/videos/madar-welcome-12s.webm",
+      "status": 200,
+      "contentType": "video/webm"
+    },
+    {
+      "path": "/MDR/fonts/ArabicDisplay.woff2",
+      "status": 200,
+      "contentType": "font/woff2"
+    }
+  ],
+  "sitemapEntries": 68,
+  "result": "PASS"
+}
