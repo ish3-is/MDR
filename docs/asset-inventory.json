@@ -1,0 +1,76 @@
+{
+  "generated": "2026-10-21T22:34:45.237Z",
+  "originalLogoSha256": "b870d1ef21fcec9aade06ccb15ccb1330859a68931876badb639e52034707ec4",
+  "files": [
+    {
+      "file": "public/brand/madar-192.webp",
+      "bytes": 15126,
+      "sha256": "e1e1d0da58164e1135b2e1c2853f5f2db2f2f90af2d6647a7abd9e9cc4694a1b"
+    },
+    {
+      "file": "public/brand/madar-original.png",
+      "bytes": 381957,
+      "sha256": "b870d1ef21fcec9aade06ccb15ccb1330859a68931876badb639e52034707ec4"
+    },
+    {
+      "file": "public/fonts/ArabicDisplay.otf",
+      "bytes": 285180,
+      "sha256": "2a4dfbabca5247cf16309386e73d5da280f467d20007d9e3e4f27b155293d006"
+    },
+    {
+      "file": "public/fonts/ArabicDisplay.woff2",
+      "bytes": 34784,
+      "sha256": "17fd63e78f0c9f840e1ce913fa5880b5f4809017316be162cf4971778118b0b9"
+    },
+    {
+      "file": "public/fonts/LICENSE-IBM-Plex.txt",
+      "bytes": 4808,
+      "sha256": "1c32ddc3fc6efd167cdcbe475195287f2dc26ed1a4c92fbe31c87ceaffe44f98"
+    },
+    {
+      "file": "public/fonts/LICENSE-Manrope.txt",
+      "bytes": 4383,
+      "sha256": "d826ab6583b12c26807d8716a545bdbbb672df04f48608a364ba9efdbe501c30"
+    },
+    {
+      "file": "public/projects/basirah-2.webp",
+      "bytes": 33940,
+      "sha256": "19c740b093c6c9a8e3e9e33dfbf8f8ec2525b09033a8d732a0dfad06c8c36a1f"
+    },
+    {
+      "file": "public/projects/basirah.webp",
+      "bytes": 36628,
+      "sha256": "8ad74d9cfb05903571764337db221b2f4e1895ca256a5537a966ac8cc79ec47c"
+    },
+    {
+      "file": "public/projects/mizan.webp",
+      "bytes": 53018,
+      "sha256": "7f87644a09831d8ed31dc3b583b9e2bcd40c66b0525c082c8cfb187ecb191133"
+    },
+    {
+      "file": "public/projects/splunk.webp",
+      "bytes": 64128,
+      "sha256": "503a024bbb6254cca012a733c49e21736b09c7ec0b534c9d96e04871965e23c6"
+    },
+    {
+      "file": "public/videos/madar-poster-preview.webp",
+      "bytes": 23796,
+      "sha256": "5191b7c02e95c3d5d3c92600d5befda9119058aaf417b7b151a66f10e7aced3a"
+    },
+    {
+      "file": "public/videos/madar-poster.webp",
+      "bytes": 66274,
+      "sha256": "57542aef7b5fa1d79c0435d29eabe7f89480b4aa31378cf114ae240ee15fd743"
+    },
+    {
+      "file": "public/videos/madar-welcome-12s.mp4",
+      "bytes": 2571903,
+      "sha256": "da30dc023d32ede9a96b3b0f8bbe91166e1e199db6e7efaf257683c7d14090c9"
+    },
+    {
+      "file": "public/videos/madar-welcome-12s.webm",
+      "bytes": 1350905,
+      "sha256": "18d458dc6aebaba40602f43a928ef27e80d16417e04067392edb001a57c7c966"
+    }
+  ]
+}

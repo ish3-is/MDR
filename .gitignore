@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.prerender/
+.qa-host/
+test-results/
+playwright-report/
+.env
+.env.local
+.env.*
+!.env.example
+docs/local-evidence/
+docs/unassigned-assets/
+*.log

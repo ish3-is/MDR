@@ -1,0 +1,86 @@
+[
+  {
+    "repo": "ish3-is/Digital-Technology-Club-Platform",
+    "url": "https://github.com/ish3-is/Digital-Technology-Club-Platform",
+    "readme_url": "https://github.com/ish3-is/Digital-Technology-Club-Platform/blob/main/README.md",
+    "readme_sha": "d58f47eea3e142a1ae99799229d02c1350342216",
+    "readme_available": true
+  },
+  {
+    "repo": "ish3-is/R-MPurpleOps-Pro",
+    "url": "https://github.com/ish3-is/R-MPurpleOps-Pro",
+    "readme_url": "https://github.com/ish3-is/R-MPurpleOps-Pro/blob/main/README.md",
+    "readme_sha": "4b9d94ca080d3feb478a1397671dce0c5f88305d",
+    "readme_available": true
+  },
+  {
+    "repo": "ish3-is/MR-SOC---DualShield",
+    "url": "https://github.com/ish3-is/MR-SOC---DualShield",
+    "readme_url": "https://github.com/ish3-is/MR-SOC---DualShield/blob/main/README.md",
+    "readme_sha": "bc8ed76cd664152470fa2d270113000b44ede55b",
+    "readme_available": true
+  },
+  {
+    "repo": "ish3-is/Aljuri",
+    "url": "https://github.com/ish3-is/Aljuri",
+    "readme_url": "https://github.com/ish3-is/Aljuri/blob/main/README.md",
+    "readme_sha": "14a88ce32f7b3e2d8dd6bb0ffb5e18cfb08658f3",
+    "readme_available": true
+  },
+  {
+    "repo": "ish3-is/R-M",
+    "url": "https://github.com/ish3-is/R-M",
+    "readme_url": "https://github.com/ish3-is/R-M/blob/main/README.md",
+    "readme_sha": "1e56009f852540b5dc89f049a63fdf42fd274798",
+    "readme_available": true
+  },
+  {
+    "repo": "ish3-is/Wazuh-SIEM-SOC-Lab",
+    "url": "https://github.com/ish3-is/Wazuh-SIEM-SOC-Lab",
+    "readme_url": "https://github.com/ish3-is/Wazuh-SIEM-SOC-Lab/blob/main/README.md",
+    "readme_sha": "8ff068964286597521885cc3e1747397c55278eb",
+    "readme_available": true
+  },
+  {
+    "repo": "ish3-is/Splunk-Firewall-Security-Monitoring",
+    "url": "https://github.com/ish3-is/Splunk-Firewall-Security-Monitoring",
+    "readme_url": "https://github.com/ish3-is/Splunk-Firewall-Security-Monitoring/blob/main/README.md",
+    "readme_sha": "9dee02d7288eac2559b8014127a83cae87714aae",
+    "readme_available": true
+  },
+  {
+    "repo": "ish3-is/Project",
+    "url": "https://github.com/ish3-is/Project",
+    "readme_url": "https://github.com/ish3-is/Project/blob/main/README.md",
+    "readme_sha": "f495082d0c12c04716293f7483cbe15eef6cc1d0",
+    "readme_available": true
+  },
+  {
+    "repo": "teeeaf345/housing-system",
+    "url": "https://github.com/teeeaf345/housing-system",
+    "readme_url": null,
+    "readme_sha": null,
+    "readme_available": false
+  },
+  {
+    "repo": "ish3-is/RM_Sentinel",
+    "url": "https://github.com/ish3-is/RM_Sentinel",
+    "readme_url": "https://github.com/ish3-is/RM_Sentinel/blob/main/README.md",
+    "readme_sha": "b878fb8c553c2bdd358629d86cc34ff407acc1cf",
+    "readme_available": true
+  },
+  {
+    "repo": "ish3-is/R-M-UEBA-AI-Engine",
+    "url": "https://github.com/ish3-is/R-M-UEBA-AI-Engine",
+    "readme_url": "https://github.com/ish3-is/R-M-UEBA-AI-Engine/blob/main/README.md",
+    "readme_sha": "c05b1367d412345f9c0c68785163d23390f67351",
+    "readme_available": true
+  },
+  {
+    "repo": "ish3-is/CYS",
+    "url": "https://github.com/ish3-is/CYS",
+    "readme_url": "https://github.com/ish3-is/CYS/blob/main/README.md",
+    "readme_sha": "47c20f89d4abeba1acaae6ed5a8e8cf0ecd0de7a",
+    "readme_available": true
+  }
+]

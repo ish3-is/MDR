@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-21T22:29:37.892Z",
+  "server": "Python static HTTP server, no SPA fallback",
+  "results": [
+    {
+      "url": "http://127.0.0.1:4181/MADAR/",
+      "javaScriptEnabled": false,
+      "directNavigation": "PASS",
+      "reload": "PASS",
+      "links": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "http://127.0.0.1:4181/MADAR/projects/mizan/",
+      "javaScriptEnabled": false,
+      "directNavigation": "PASS",
+      "reload": "PASS",
+      "links": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "http://127.0.0.1:4181/MADAR/services/soc/",
+      "javaScriptEnabled": false,
+      "directNavigation": "PASS",
+      "reload": "PASS",
+      "links": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "http://127.0.0.1:4181/MADAR/en/projects/",
+      "javaScriptEnabled": false,
+      "directNavigation": "PASS",
+      "reload": "PASS",
+      "links": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "http://127.0.0.1:4181/MADAR/en/contact/",
+      "javaScriptEnabled": false,
+      "directNavigation": "PASS",
+      "reload": "PASS",
+      "links": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "http://127.0.0.1:4181/MADAR/",
+      "javaScriptEnabled": true,
+      "directNavigation": "PASS",
+      "reload": "PASS",
+      "links": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "http://127.0.0.1:4181/MADAR/projects/mizan/",
+      "javaScriptEnabled": true,
+      "directNavigation": "PASS",
+      "reload": "PASS",
+      "links": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "http://127.0.0.1:4181/MADAR/services/soc/",
+      "javaScriptEnabled": true,
+      "directNavigation": "PASS",
+      "reload": "PASS",
+      "links": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "http://127.0.0.1:4181/MADAR/en/projects/",
+      "javaScriptEnabled": true,
+      "directNavigation": "PASS",
+      "reload": "PASS",
+      "links": "PASS",
+      "canonical": "PASS"
+    },
+    {
+      "url": "http://127.0.0.1:4181/MADAR/en/contact/",
+      "javaScriptEnabled": true,
+      "directNavigation": "PASS",
+      "reload": "PASS",
+      "links": "PASS",
+      "canonical": "PASS"
+    }
+  ]
+}

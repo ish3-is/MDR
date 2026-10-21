@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-21T22:29:43.127Z",
+  "note": "Read-only HTTP checks. Social providers may restrict automated access; no message was sent.",
+  "results": [
+    {
+      "url": "https://github.com/ish3-is/Digital-Technology-Club-Platform",
+      "status": 200,
+      "finalUrl": "https://github.com/ish3-is/Digital-Technology-Club-Platform",
+      "ok": true
+    },
+    {
+      "url": "https://github.com/ish3-is/R-MPurpleOps-Pro",
+      "status": 200,
+      "finalUrl": "https://github.com/ish3-is/R-MPurpleOps-Pro",
+      "ok": true
+    },
+    {
+      "url": "https://github.com/ish3-is/MR-SOC---DualShield",
+      "status": 200,
+      "finalUrl": "https://github.com/ish3-is/MR-SOC---DualShield",
+      "ok": true
+    },
+    {
+      "url": "https://github.com/ish3-is/Aljuri",
+      "status": 200,
+      "finalUrl": "https://github.com/ish3-is/Aljuri",
+      "ok": true
+    },
+    {
+      "url": "https://github.com/ish3-is/R-M",
+      "status": 200,
+      "finalUrl": "https://github.com/ish3-is/R-M",
+      "ok": true
+    },
+    {
+      "url": "https://github.com/ish3-is/Wazuh-SIEM-SOC-Lab",
+      "status": 200,
+      "finalUrl": "https://github.com/ish3-is/Wazuh-SIEM-SOC-Lab",
+      "ok": true
+    },
+    {
+      "url": "https://github.com/ish3-is/Splunk-Firewall-Security-Monitoring",
+      "status": 200,
+      "finalUrl": "https://github.com/ish3-is/Splunk-Firewall-Security-Monitoring",
+      "ok": true
+    },
+    {
+      "url": "https://github.com/ish3-is/Project",
+      "status": 200,
+      "finalUrl": "https://github.com/ish3-is/Project",
+      "ok": true
+    },
+    {
+      "url": "https://github.com/teeeaf345/housing-system",
+      "status": 200,
+      "finalUrl": "https://github.com/teeeaf345/housing-system",
+      "ok": true
+    },
+    {
+      "url": "https://github.com/ish3-is/RM_Sentinel",
+      "status": 200,
+      "finalUrl": "https://github.com/ish3-is/RM_Sentinel",
+      "ok": true
+    },
+    {
+      "url": "https://github.com/ish3-is/R-M-UEBA-AI-Engine",
+      "status": 200,
+      "finalUrl": "https://github.com/ish3-is/R-M-UEBA-AI-Engine",
+      "ok": true
+    },
+    {
+      "url": "https://github.com/ish3-is/CYS",
+      "status": 200,
+      "finalUrl": "https://github.com/ish3-is/CYS",
+      "ok": true
+    },
+    {
+      "url": "https://ish3-is.github.io/Aljuri/",
+      "status": 200,
+      "finalUrl": "https://ish3-is.github.io/Aljuri/",
+      "ok": true
+    },
+    {
+      "url": "https://t.me/mdr_Tech",
+      "status": 200,
+      "finalUrl": "https://t.me/mdr_Tech",
+      "ok": true
+    },
+    {
+      "url": "https://t.me/sh3_JU",
+      "status": 200,
+      "finalUrl": "https://t.me/sh3_JU",
+      "ok": true
+    },
+    {
+      "url": "https://t.me/mesh_TU",
+      "status": 200,
+      "finalUrl": "https://t.me/mesh_TU",
+      "ok": true
+    },
+    {
+      "url": "https://t.me/mesh_UB",
+      "status": 200,
+      "finalUrl": "https://t.me/mesh_UB",
+      "ok": true
+    },
+    {
+      "url": "https://t.me/sh3_o",
+      "status": 200,
+      "finalUrl": "https://t.me/sh3_o",
+      "ok": true
+    },
+    {
+      "url": "https://t.me/mstr_mis",
+      "status": 200,
+      "finalUrl": "https://t.me/mstr_mis",
+      "ok": true
+    },
+    {
+      "url": "https://github.com/ish3-is",
+      "status": 200,
+      "finalUrl": "https://github.com/ish3-is",
+      "ok": true
+    },
+    {
+      "url": "https://github.com/Rer-cys",
+      "status": 404,
+      "finalUrl": "https://github.com/Rer-cys",
+      "ok": false
+    },
+    {
+      "url": "https://github.com/aljory002151-star",
+      "status": 200,
+      "finalUrl": "https://github.com/aljory002151-star",
+      "ok": true
+    },
+    {
+      "url": "https://www.linkedin.com/company/mdr-org/",
+      "status": 200,
+      "finalUrl": "https://www.linkedin.com/company/mdr-org/",
+      "ok": true
+    },
+    {
+      "url": "https://www.linkedin.com/in/remas-alqahtani-1674b33a8",
+      "status": 999,
+      "finalUrl": "https://www.linkedin.com/in/remas-alqahtani-1674b33a8",
+      "ok": false
+    }
+  ]
+}

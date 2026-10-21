@@ -1,0 +1,34 @@
+export type Locale = "ar" | "en";
+export type Localized = { ar: string; en: string };
+export const l = (ar: string, en: string): Localized => ({ ar, en });
+export type Category = "grc" | "cyber" | "systems" | "ai" | "other";
+export type Project = {
+  slug: string;
+  title: Localized;
+  category: Category;
+  code: string;
+  featured?: boolean;
+  summary: Localized;
+  stack: string[];
+  capabilities: Localized[];
+  challenge: Localized;
+  approach: Localized;
+  attribution: Localized;
+  status: Localized;
+  repo?: string;
+  source?: string;
+  demo?: string;
+  images?: string[];
+};
+export type Service = {
+  slug: string;
+  title: Localized;
+  subtitle: string;
+  icon: string;
+  overview: Localized;
+  deliverables: Localized[];
+  audience: Localized;
+  approach: Localized;
+  examples: string[];
+  faq: { question: Localized; answer: Localized }[];
+};
